@@ -1,5 +1,5 @@
 ## Heap Sort Java
-The code of the problem cen be found [Here.]([https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HeapSort_Cpp/src/HeapSort.h](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HeapSort_Java/src/ac/um/ds/HeapSort/HeapSort.java))
+The code of the problem cen be found [Here.](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HeapSort_Java/src/ac/um/ds/HeapSort/HeapSort.java)
 In this exercise, we have to write the functions below which are located in Heap.h file: <br>
 <br>![Screenshot from 2023-08-19 00-59-13](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/5d709250-0191-42cd-91bb-e9b9e8671b6b)
 
