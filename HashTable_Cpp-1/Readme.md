@@ -3,7 +3,7 @@ The code of this problem is located [Here]([https://gymnasium.farama.org/environ
 In this exercise, we have to write the functions below which are located in HashTable.h file:
 ![Screenshot from 2023-08-19 00-15-49](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/e4e5e909-c989-4bb0-a781-a7b026c430a0)
 The features of the mentioned functions are:
-1.mCapacity which define the capability of the HashTable.
+1.mCapacity which define the capability of the HashTable.\\
 2.mSize which define the number of data that are in the HashTable.
 3.mTable, which is actually the same array as HashTable, the type of this array is pair is that the first entry is the key data and the second value is the data value itself.
 4.mStateTable This array is the same as HashTable's capacity and specifies which The houses are empty.
