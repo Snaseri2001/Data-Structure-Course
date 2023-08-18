@@ -1,5 +1,5 @@
 ## Hash Table CPP
-The code of this problem is located [Here.]([https://gymnasium.farama.org/environments/toy_text/frozen_lake/](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HashTable_Cpp-1/src/HashTable.h))
+The code of this problem is located [Here]([https://gymnasium.farama.org/environments/toy_text/frozen_lake/](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HashTable_Cpp-1/src/HashTable.h))
 In this exercise, we have to write the functions below which are located in HashTable.h file:
 ![Screenshot from 2023-08-19 00-15-49](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/e4e5e909-c989-4bb0-a781-a7b026c430a0)
 The features of the mentioned functions are:
