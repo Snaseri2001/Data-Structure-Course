@@ -5,11 +5,11 @@ In this repository, I intend to present the exercises that I have completed duri
 The code of this problem is located [Here.]([https://gymnasium.farama.org/environments/toy_text/frozen_lake/](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HashTable_Cpp-1/src/HashTable.h))
 In this exercise, we have to write the functions below which are located in HashTable.h file:
 ![Screenshot from 2023-08-19 00-15-49](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/e4e5e909-c989-4bb0-a781-a7b026c430a0)
-The features of the mentioned functions are:
-1.mCapacity which define the capability of the HashTable.
-2.mSize which define the number of data that are in the HashTable.
-3.mTable, which is actually the same array as HashTable, the type of this array is pair is that the first entry is the key data and the second value is the data value itself.
-4.mStateTable This array is the same as HashTable's capacity and specifies which The houses are empty.
+The features of the mentioned functions are:<br>
+1.mCapacity which define the capability of the HashTable.<br>
+2.mSize which define the number of data that are in the HashTable.<br>
+3.mTable, which is actually the same array as HashTable, the type of this array is pair is that the first entry is the key data and the second value is the data value itself.<br>
+4.mStateTable This array is the same as HashTable's capacity and specifies which The houses are empty.<br>
 5.key (K) (*hashFunc) which is actually a pointer to a function that Its job is to hash the key The function has an input of template type, which is marked with K here. This is the same key that returns the hash value by giving it to this function And you can get the desired index by taking its remainder compared to the capacity Find mTable.
 6.mMaxLoadingFactor that specifies how many percent of the HashTable or mTable is filled SizeThe arrays (mTable and mStateTable) should be bigger The number must be between zero and one.Also, it cannot be zero and one.
 
