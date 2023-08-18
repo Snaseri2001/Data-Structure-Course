@@ -2,12 +2,12 @@
 The code of the problem cen be found [Here.](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/HeapSort_Cpp/src/HeapSort.h)
 In this exercise, we have to write the functions below which are located in Heap.h file: <br>
 ![Screenshot from 2023-08-19 00-41-35](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/e02a83fa-666e-49c0-8f57-7880dfeffd53)
-and also the body of the sort function has to be performed :![Screenshot from 2023-08-19 00-42-33](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/239abd5d-3a7f-4c48-bc36-fbe8adaf6652)
+and also the body of the sort function has to be performed :<br> ![Screenshot from 2023-08-19 00-42-33](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/239abd5d-3a7f-4c48-bc36-fbe8adaf6652)
 <br>
 initialized function is gotten 2 parameters :
 1.data: The array corresponds to the heap tree. Note that this tree A tree is complete, in this sense If we number the nodes, the number of each node corresponds to the number of the same node A full tree of equal depth As a result, if the numbering starts from 1, the left child of node i The m is the i*2nd node and the right child of the i*2+1st node. Also, in this tree, it is not possible for the true child to exist that there is no left child.
 <br>
-2.n : the size of the tree ornubmber of the leaves.
+2.n: the size of the tree ornubmber of the leaves.
 <br>
 In this function, we are going to change the tree (array) in such a way that it becomes A tree should be Heap Max, in other words, each node should be the largest node in its subtree.<br>
 
