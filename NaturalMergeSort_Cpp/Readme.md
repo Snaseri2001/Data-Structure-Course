@@ -3,7 +3,7 @@
 The code of this problem is located [Here.](https://github.com/Snaseri2001/Data-Structure-Course/blob/main/NaturalMergeSort_Cpp/NaturalMergeSort/src/NaturalMergeSort.h)
 
 In this exercise we have to complete a part of the "Sort" , "FindBorder" and "Merge" function , which is located in "NaturalMergeSort.h" :
-<br?
+<br>
 ![Screenshot from 2023-08-20 11-17-47](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/56fa98ad-1d5e-47be-9713-6696f690d1be)
 <br> 
 This function gets an array as an input and sort it increasingly with the method of "Natural Merge Sort" with "FindBorder" and "Merge" functions. The parameters of the functions are defined as :
@@ -30,7 +30,6 @@ arr : an array that we want to perform the merge operation
 <br>
 the elements of [p , q-1] are ordered and also [q , r-1] is ordered.
 <br>
-![Screenshot from 2023-08-20 11-24-40](https://github.com/Snaseri2001/Data-Structure-Course/assets/60386309/28245e1e-d14f-46d0-941f-ac556b11ea06)
 ### An explanation about the Queue
 A simple data structure is a data structure in which elements are added to the end of a list
 The deletion is done from the beginning of the list.In the real world
