@@ -30,7 +30,7 @@ arr : an array that we want to perform the merge operation
 <br>
 the elements of [p , q-1] are ordered and also [q , r-1] is ordered.
 <br>
-### An explanation about the Queue
+An explanation about the Queue
 <br>
 A simple data structure is a data structure in which elements are added to the end of a list
 The deletion is done from the beginning of the list.In the real world
